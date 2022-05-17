@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-15T20:20:30Z" name="AllTest" finished-at="2022-05-15T20:20:39Z" duration-ms="8569">
+    <groups>
+    </groups>
+    <test started-at="2022-05-15T20:20:30Z" name="PositiveTest" finished-at="2022-05-15T20:20:39Z" duration-ms="8569">
+      <class name="com.google.PositiveTest">
+        <test-method signature="googletest()[pri:0, instance:com.google.PositiveTest@11392934]" started-at="2022-05-15T20:20:31Z" name="googletest" finished-at="2022-05-15T20:20:39Z" duration-ms="8517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googletest -->
+      </class> <!-- com.google.PositiveTest -->
+    </test> <!-- PositiveTest -->
+  </suite> <!-- AllTest -->
+</testng-results>
